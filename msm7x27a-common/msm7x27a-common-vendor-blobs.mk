@@ -34,6 +34,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/msm7x27a-common/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/huawei/msm7x27a-common/proprietary/bin/write_NV_114:system/bin/write_NV_114 \
+    vendor/huawei/msm7x27a-common/proprietary/cust/ons/ons.bin:system/cust/ons/ons.bin \
+    vendor/huawei/msm7x27a-common/proprietary/cust/xml/mccTableParse.xml:system/cust/xml/mccTableParse.xml \
     vendor/huawei/msm7x27a-common/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liballjoyn.so:system/lib/liballjoyn.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libaudcal.so:obj/lib/libaudcal.so \
